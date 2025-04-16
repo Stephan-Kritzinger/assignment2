@@ -11,5 +11,5 @@
     import project from '~/components/project.vue';
 </script>
 <style scoped>
-    @import './styles/projectPage.css';
+    @import '../styles/projectPage.css';
 </style>
